@@ -19,7 +19,7 @@
 - **Luiz Henrique Lourenço**  
 - **Reyel Bruno**
 - **Sylvia Almeida**
-- **Sopia Costa**
+- **Sophia Costa**
 - **Vinicius Medeiros**
 
 ## Future Improvements
